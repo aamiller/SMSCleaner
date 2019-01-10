@@ -11,7 +11,7 @@
 // Ex. Adele: [text message]
 //
 //
-//	   Allie: [text message}
+//	   Jane: [text message}
 // This does not remove the phone number and contact name
 // present at the top of the text file. 
 
